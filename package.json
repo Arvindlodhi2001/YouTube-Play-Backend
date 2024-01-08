@@ -1,0 +1,11 @@
+{
+  "name": "youtube-play-backend",
+  "version": "1.0.0",
+  "description": "In this project youtube play clone All Advance lavel code and manage to easy ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Lodhi",
+  "license": "ISC"
+}
